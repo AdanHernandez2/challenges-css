@@ -47,14 +47,14 @@ img {
 /** contenido **/
 .main {
     width: 100%;
-    background-image: url(/img/bg-mobile.svg);
+    background-image: url(../img/bg-mobile.svg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: contain;
 }
 @media (min-width: 768px) { 
       .main {
-        background-image: url(/img/bg-desktop.svg);
+        background-image: url(../img/bg-desktop.svg);
         background-position: left center;
       }
 }
